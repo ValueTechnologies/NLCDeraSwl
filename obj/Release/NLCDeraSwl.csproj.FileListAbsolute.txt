@@ -1,0 +1,20 @@
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\obj\Release\RdlCompile.cache
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\obj\Release\RdlCompile.compiled
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\bin\NLCDeraSwl.dll.config
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\bin\NLCDeraSwl.dll
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\bin\NLCDeraSwl.pdb
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\bin\Newtonsoft.Json.dll
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\bin\OnBarcode.Barcode.ASPNET.dll
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\obj\Release\NLCDeraSwl.dll
+C:\Users\Captain\OneDrive\Value Resources\Projects\Dec 2017\NLCDeraSwl\obj\Release\NLCDeraSwl.pdb
+D:\NLCDeraSwl\bin\NLCDeraSwl.dll.config
+D:\NLCDeraSwl\bin\NLCDeraSwl.dll
+D:\NLCDeraSwl\bin\NLCDeraSwl.pdb
+D:\NLCDeraSwl\bin\Microsoft.QualityTools.Testing.Fakes.dll
+D:\NLCDeraSwl\bin\Newtonsoft.Json.dll
+D:\NLCDeraSwl\obj\Release\RdlCompile.cache
+D:\NLCDeraSwl\obj\Release\RdlCompile.compiled
+D:\NLCDeraSwl\obj\Release\NLCDeraSwl.dll
+D:\NLCDeraSwl\obj\Release\NLCDeraSwl.pdb
+D:\NLCDeraSwl\obj\Release\NLCDeraSwl.csprojResolveAssemblyReference.cache
